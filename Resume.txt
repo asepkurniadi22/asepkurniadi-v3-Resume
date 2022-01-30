@@ -1,0 +1,67 @@
+          
+          <div class="col-lg-6">
+            <h3 class="resume-title">Pengalaman Kerja</h3>
+            <div class="resume-item">
+              <h4>ASAFA</h4>
+              <h5>2016 - Sekarang</h5>
+              <p><em>Kramat jati, Jakarta, Indonesia</em></p>
+              <p><b>Website Developer & Owner</b></p>
+              <ul>
+                <li>Membuat pertemuan secara langsung atau online untuk membahas & menganalisa website yang akan dipesan dangan pelanggan.</li>
+                <li>Memimpin dan ikut dalam pengerjaan membuat sebuah website. </li>
+                <li>Membuat pertemuan secara langsung atau online untuk membahas & menganalisa kebutuhan perangkat TI dari pelanggan.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>PT. Inti Heksa International</h4>
+              <h5>2015</h5>
+              <p><em>Tebet, Jakarta, Indonesia</em></p>
+              <p><b>Business Manager</b></p>                           
+              <ul>
+                <li></li>
+                <li>Melakukan rapat dengan pimpinan dan bagian penjualan.</li>
+                <li>Melakukan pendekatan dan negoisasi dengan klien perusahaan'./li>
+                <li>Ikut dalam pelelangan dengan pelanggan.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>PT. Gyga Sinergi Teknologi</h4>
+              <h5>2014</h5>
+              <p><em>Gedung Tifa, Kuningan, Jakarta, Indonesia</em></p>
+              <p><b>Business Manager</b></p>                           
+              <ul>
+                <li>Melakukan persiapan pelaksanaan proyek-proyek.</li>
+                <li>Memonitor pelaksanaan proyek-proyek.</li>
+                <li>Bertanggung jawab atas administrasi dan operasional perusahaan termasuk pelaporan pajak dan pelaporan keuangan.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>PT. Wahana Utama Sejahtera</h4>
+              <h5>2011 – 2013</h5>
+              <p><em>Gedung Tifa, Kuningan, Jakarta, Indonesia</em></p>
+              <p><b>Operation Manager</b></p>                           
+              <ul>
+                <li>Melakukan pertemuan mingguan dengan manajer proyek untuk membahas status.</li>
+                <li>proyek Membantu manajer proyek untuk memecahkan masalah proyek.</li>
+                <li>Mengelola, memantau dan melaporkan status proyek kepada pimpinan.</li>
+                <li>Bertanggung jawab atas proyek.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>PT. Arsena Solusindo</h4>
+              <h5>2011 – 2013</h5>
+              <p><em>Gedung Menara Duta, Kuningan, Jakarta, Indonesia</em></p>
+              <p><b>Project Manager</b></p>                           
+              <ul>
+                <li></li>
+                <li>proyek Membantu manajer proyek untuk memecahkan masalah proyek.</li>
+                <li>Mengelola, memantau dan melaporkan status proyek kepada pimpinan.</li>
+                <li>Bertanggung jawab atas proyek.</li>
+              </ul>
+            </div>
+
+
+
+
+
+          </div>
